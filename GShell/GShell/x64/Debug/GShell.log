@@ -1,0 +1,38 @@
+﻿  Main.c
+C:\code\GShell\GShell\Globals.c(81,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Main.c')
+  
+  MFile_System.c
+C:\code\GShell\GShell\Globals.c(81,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'programs/MFile_System.c')
+  
+C:\code\GShell\GShell\programs\MFile_System.c(28,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\code\GShell\GShell\programs\MFile_System.c(36,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\code\GShell\GShell\programs\MFile_System.c(82,44): warning C4133: 'function': incompatible types - from 'WIN32_FIND_DATA *' to 'LPWIN32_FIND_DATAA'
+C:\code\GShell\GShell\programs\MFile_System.c(115,40): warning C4133: 'function': incompatible types - from 'WIN32_FIND_DATA *' to 'LPWIN32_FIND_DATAA'
+  MyRandom.c
+  Capitalize.c
+C:\code\GShell\GShell\Globals.c(81,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'programs/Capitalize.c')
+  
+C:\code\GShell\GShell\programs\Capitalize.c(11,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Globals.c
+C:\code\GShell\GShell\Globals.c(81,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Json.c
+C:\code\GShell\GShell\Globals.c(81,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'programs/Json.c')
+  
+  Text_Editor.c
+C:\code\GShell\GShell\Globals.c(81,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'programs/Text_Editor.c')
+  
+C:\code\GShell\GShell\programs\Text_Editor.c(53,18): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+C:\code\GShell\GShell\programs\Text_Editor.c(225,12): warning C4047: 'function': 'FILE **' differs in levels of indirection from 'FILE *'
+C:\code\GShell\GShell\programs\Text_Editor.c(225,12): warning C4024: 'fopen_s': different types for formal and actual parameter 1
+  GSecurity.c
+C:\code\GShell\GShell\Globals.c(81,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'programs/GSecurity.c')
+  
+  User_Info.c
+  Generating Code...
+  GShell.vcxproj -> C:\code\GShell\x64\Debug\GShell.exe
